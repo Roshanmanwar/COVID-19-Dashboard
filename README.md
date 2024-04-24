@@ -1,5 +1,8 @@
 # COVID-19 Dashboard
 
+<img src=""/>
+
+
 ## Description
 
 This is a COVID-19 dashboard built using React.js that visualizes statistical data through interactive charts. The dashboard displays pandemic statistics, including total cases, recoveries, and deaths for various countries.
