@@ -1,6 +1,6 @@
-# COVID-19 Dashboard
+# COVID-19  and Population Dashboard
 
-<img src=""/>
+<img src="https://github.com/Roshanmanwar/COVID-19-Dashboard/blob/main/covid-19-dashboard-image.JPG"/>
 
 
 ## Description
